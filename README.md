@@ -5,7 +5,7 @@ git clone --recurse-submodules https://github.com/snake-4/Zygisk-Assistant/
 Run Android Studio and open project
 ```
 cd Zygisk-Assistant
-gradlew.bat :module:assembleRelease
+gradlew.bat :module:moduleZipRelease
 ```
 Install Zygisk-Assistant/module/build/outputs/zip/Zygisk-Assistant-v2.1.4-8832d69-release.zip
 
